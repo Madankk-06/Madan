@@ -1,0 +1,1 @@
+This project contains codes of htms, css, and jss. This is Weather finding tool which is functioned as, when the user enters the name of the city in the search box the current weather of the city is displayed
